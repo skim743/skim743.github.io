@@ -462,9 +462,11 @@ vega-lite:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+# Disabled: use _data/cv.yml for the Experience/CV page instead of the JSON resume.
+# To switch back to the JSON resume (assets/json/resume.json), uncomment the block below.
+# jekyll_get_json:
+#   - data: resume
+#     json: assets/json/resume.json # it can also be an url
 jsonresume:
   - basics
   - work
