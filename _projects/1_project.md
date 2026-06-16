@@ -18,7 +18,7 @@ To make the testbed reliable and reproducible at scale, I developed custom hardw
     </div>
 </div>
 <div class="caption">
-    Advanced Robotic Manipulation Lab demonstration.
+    Advanced Robotic Manipulation Teaser.
 </div>
 
 <div class="row justify-content-sm-center">
@@ -27,5 +27,5 @@ To make the testbed reliable and reproducible at scale, I developed custom hardw
     </div>
 </div>
 <div class="caption">
-    Advanced Robotic Manipulation Lab demonstration.
+    Advanced Robotic Manipulation Teaser.
 </div>
