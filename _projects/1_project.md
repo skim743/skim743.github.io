@@ -2,7 +2,7 @@
 layout: page
 title: Advanced Robotic Manipulation Lab
 description: An educational robot-arm testbed at Georgia Tech for hands-on manipulation research and coursework
-img: assets/img/12.jpg
+img: assets/img/arm_lab.jpg
 importance: 1
 category: work
 related_publications: false
