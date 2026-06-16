@@ -31,7 +31,7 @@
   contents:
     - title: Robotics Education Lab Manager
       institution: Georgia Institute of Technology, Atlanta, GA
-      year: Oct 2024 - Present
+      year: 2024 - now
       description:
         - "Established the Advanced Robotic Manipulation (ARM) Lab, an educational testbed of multiple robot-arm stations, managing all phases from budget planning, procurement, and layout design through installation, hardware calibration, and software integration"
         - "Developed custom hardware emergency-stop buttons using physical switches and a custom-programmed microcontroller, integrated into the robot SDK"
@@ -40,7 +40,7 @@
         - "Created course projects spanning simulation and hardware, covering point-cloud registration, pick-and-place, torque control, gravity compensation, hybrid force-position control, and imitation learning"
     - title: Graduate Research Assistant
       institution: Georgia Institute of Technology, Atlanta, GA
-      year: Aug 2020 - Aug 2024
+      year: 2020 - 2024
       description:
         - title: Research on control algorithms for multi-robot teams
           contents:
@@ -56,31 +56,31 @@
             - "Mentored undergraduate students in building a multi-robot system capable of manipulating physical objects"
     - title: Visiting Graduate Student
       institution: University of California, Irvine, CA
-      year: Apr 2023 - Jun 2023
+      year: 2023
       description:
         - "Established a Robotarium multi-robot testbed at UC Irvine, integrating user APIs (Python, MATLAB), robot firmware (C++, Python), and a Vicon motion-capture system via MQTT"
         - "Designed an area coverage controller for aerial robots with downward-facing cameras to optimally monitor a region based on joint probability of detection"
     - title: Inverter Controls Engineer
       institution: Samsung Electronics, Suwon, South Korea
-      year: May 2019 - Aug 2019
+      year: 2019
       description:
         - "Implemented field-oriented control (FOC) algorithms for 3-phase PMSM compressors in building HVAC systems (C)"
         - "Developed control algorithms to stabilize the DC-Link of an interleaved PFC (C)"
     - title: C-Lab (Creative Lab) Engineer
       institution: Samsung Electronics, Suwon, South Korea
-      year: Dec 2018 - May 2019
+      year: 2018 - 2019
       description:
         - "Selected via a new-product idea competition to work on product planning"
         - "Researched and prototyped a new bedroom appliance, leading circuit development and control"
     - title: Inverter Controls Engineer
       institution: Samsung Electronics, Suwon, South Korea
-      year: Jan 2018 - Dec 2018
+      year: 2018
       description:
         - "Developed control algorithms for 3-phase sensorless PMSM compressors for system air conditioners"
         - "Developed control algorithms for interleaved PFC"
     - title: Sergeant
       institution: Republic of Korea Army, 36th Infantry Division
-      year: Jul 2013 - Apr 2015
+      year: 2013 - 2015
 
 - title: Skills
   type: nested_list
