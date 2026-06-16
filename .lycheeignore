@@ -1,0 +1,3 @@
+# URLs for lychee link checker to ignore (one regex per line)
+# Unsplash returns HTTP 401 to automated checkers (false positive)
+https://unsplash\.com
