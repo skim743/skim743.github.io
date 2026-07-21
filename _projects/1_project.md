@@ -14,7 +14,9 @@ To make the testbed reliable and reproducible at scale, I developed custom hardw
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/iEGV_zJChFA" class="img-fluid rounded z-depth-1" %}
+        <div class="rounded z-depth-1" style="position: relative; width: 100%; padding-top: 56.25%; overflow: hidden;">
+            <iframe src="https://www.youtube.com/embed/iEGV_zJChFA" title="Advanced Robotic Manipulation Teaser" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
     </div>
 </div>
 <div class="caption">
@@ -23,7 +25,9 @@ To make the testbed reliable and reproducible at scale, I developed custom hardw
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/9Fe_vq2uovM" class="img-fluid rounded z-depth-1" %}
+        <div class="rounded z-depth-1" style="position: relative; width: 100%; padding-top: 56.25%; overflow: hidden;">
+            <iframe src="https://www.youtube.com/embed/9Fe_vq2uovM" title="Time-lapse of building the ARM Lab from scratch" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
     </div>
 </div>
 <div class="caption">
