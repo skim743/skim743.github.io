@@ -5,12 +5,12 @@ description: Full-stack development of a remotely accessible multi-robot researc
 img: assets/img/ccb019.jpeg
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 
 The Robotarium is a remotely accessible, multi-robot research testbed at Georgia Tech that lets researchers and students run swarm-robotics experiments on real hardware from anywhere. I worked across the full stack of the testbed — from robot design and firmware to the software framework that keeps it running autonomously.
 
-A core contribution was **GTernal**, a robot designed for the autonomous operation of the testbed, with onboard collision avoidance based on control barrier functions and time-of-flight sensors {% cite Kim2024GTernal %}. I led the production of 40 GTernals to replace the previous GritsBot X robots, and led the transition of the Robotarium's publish–subscribe framework from MQTT to ROS2 — spanning the Python/MATLAB backend, robot firmware, and motion-capture interface. I also built a mobile version of the Robotarium using a laptop and a webcam-based tracking system (ArUco tags).
+The new Robotarium will remain a remotely accessible testbed. However, one key difference between the new Robotarium and the original testbed will be its accessibility to a broader user community. The new Robotarium will be dedicated to supporting hands-on robotics education and research for faculty and students in the College of Computing. Together with the Advanced Robotic Manipulation (ARM) Lab, the Robotarium will form the Advanced Mobile Robotics (AMR) Lab.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
