@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
-nav: false
+title: Blog
+nav: true
 nav_order: 4
 pagination:
   enabled: true
@@ -17,6 +17,11 @@ pagination:
 ---
 
 <div class="post">
+
+  <p style="font-style: italic;">
+    This is where I share personal perspectives based on my own experiences. These views are my own and are intended to encourage discussion rather than represent the views of any institution with which I am affiliated.
+  </p>
+  <hr />
 
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
