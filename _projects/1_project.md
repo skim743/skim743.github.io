@@ -6,6 +6,8 @@ img: assets/img/arm_lab.jpg
 importance: 1
 category: work
 related_publications: false
+date: 2024-10-01
+last_updated: 2026-07-21
 ---
 
 The Advanced Robotic Manipulation (ARM) Lab is an educational robotic testbed at Georgia Tech, built around multiple robot-arm stations that let students and researchers move from algorithms to real hardware. I established the lab end to end — from budget planning, procurement, and layout design through system installation, hardware calibration, and software integration.

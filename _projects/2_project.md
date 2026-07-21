@@ -6,6 +6,8 @@ img: assets/img/ccb019.jpeg
 importance: 2
 category: work
 related_publications: false
+date: 2026-07-21
+last_updated: 2026-07-21
 ---
 
 The Robotarium is a remotely accessible, multi-robot research testbed at Georgia Tech that lets researchers and students run swarm-robotics experiments on real hardware from anywhere. I worked across the full stack of the testbed — from robot design and firmware to the software framework that keeps it running autonomously.
