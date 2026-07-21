@@ -2,7 +2,7 @@
 layout: page
 title: Building a Robotarium
 description: Full-stack development of a remotely accessible multi-robot research testbed at Georgia Tech
-img:
+img: assets/img/ccb019.jpeg
 importance: 2
 category: work
 related_publications: true
